@@ -38,5 +38,17 @@
             <td><a href="https://furkan-cloud.github.io/Perfect-Number/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/perfect numbers.png" alt="html" height=130></td> 
         </tr>
+                                        <tr>
+            <td>Color Changer</td>
+            <td><a href="https://github.com/furkan-cloud/Color-changer" target="_blank">Repo details</a></td>
+            <td><a href="https://furkan-cloud.github.io/Color-changer/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/colorchanger.png" alt="html" height=130></td> 
+        </tr>
+                                                <tr>
+            <td>Color Changer</td>
+            <td><a href="https://github.com/furkan-cloud/light-bulb-on-off" target="_blank">Repo details</a></td>
+            <td><a href="https://furkan-cloud.github.io/light-bulb-on-off/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/lightbulbonoff.png" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
