@@ -26,5 +26,17 @@
             <td><a href="https://furkan-cloud.github.io/005-Find-the-number/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/guessthenumber.png" alt="html" height=130></td> 
         </tr>
+                        <tr>
+            <td>Reverse Words</td>
+            <td><a href="https://github.com/furkan-cloud/Reverse-Words" target="_blank">Repo details</a></td>
+            <td><a href="https://furkan-cloud.github.io/Reverse-Words/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/reverse words.png" alt="html" height=130></td> 
+        </tr>
+                                <tr>
+            <td>Perfect Number</td>
+            <td><a href="https://github.com/furkan-cloud/Perfect-Number" target="_blank">Repo details</a></td>
+            <td><a href="https://furkan-cloud.github.io/Perfect-Number/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/perfect numbers.png" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
